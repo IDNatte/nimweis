@@ -16,7 +16,7 @@
     "@tsconfig/svelte": "^5.0.5",
     "@types/node": "^24.5.2",
     "path": "^0.12.7",
-    "svelte": "^5.39.4",
+    "svelte": "^5.39.9",
     "svelte-check": "^4.3.1",
     "tailwindcss": "^4.1.13",
     "typescript": "~5.9.2",

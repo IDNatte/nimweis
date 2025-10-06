@@ -1824,7 +1824,7 @@ __metadata:
     "@tsconfig/svelte": "npm:^5.0.5"
     "@types/node": "npm:^24.5.2"
     path: "npm:^0.12.7"
-    svelte: "npm:^5.39.4"
+    svelte: "npm:^5.39.9"
     svelte-check: "npm:^4.3.1"
     tailwindcss: "npm:^4.1.13"
     typescript: "npm:~5.9.2"
@@ -1899,9 +1899,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"svelte@npm:^5.39.4":
-  version: 5.39.6
-  resolution: "svelte@npm:5.39.6"
+"svelte@npm:^5.39.9":
+  version: 5.39.9
+  resolution: "svelte@npm:5.39.9"
   dependencies:
     "@jridgewell/remapping": "npm:^2.3.4"
     "@jridgewell/sourcemap-codec": "npm:^1.5.0"
@@ -1917,7 +1917,7 @@ __metadata:
     locate-character: "npm:^3.0.0"
     magic-string: "npm:^0.30.11"
     zimmerframe: "npm:^1.1.2"
-  checksum: 10c0/9d3b6ffe4a90600cbf3e03ad33bd3d80c968f18f94f2c96768029cae820fcff5b9a307fa3280848c168d486e4c43547b1661e4a7949ee768ca7f8b907d07956e
+  checksum: 10c0/6fd549991d94aa91431190d3fe78dc61211f249e7861b9df2862d41b6b68a14bd436decb97202688d33d386c143a89a1826ec76e264f03759786e6d014c9cb0e
   languageName: node
   linkType: hard
 
