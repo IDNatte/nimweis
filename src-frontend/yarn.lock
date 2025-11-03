@@ -1826,7 +1826,7 @@ __metadata:
     path: "npm:^0.12.7"
     svelte: "npm:^5.39.4"
     svelte-check: "npm:^4.3.1"
-    tailwindcss: "npm:^4.1.13"
+    tailwindcss: "npm:^4.1.16"
     typescript: "npm:~5.9.2"
     vite: "npm:^7.1.7"
   languageName: unknown
@@ -1921,10 +1921,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tailwindcss@npm:4.1.13, tailwindcss@npm:^4.1.13":
+"tailwindcss@npm:4.1.13":
   version: 4.1.13
   resolution: "tailwindcss@npm:4.1.13"
   checksum: 10c0/2b80b4b11463818fd16063b7cc13fd0f6e18d7e3c3e54bbdc98742981be807884addb1dd657bc6816cb4085197b7d583f5064f619e1039a54221ffa36b7ed4c0
+  languageName: node
+  linkType: hard
+
+"tailwindcss@npm:^4.1.16":
+  version: 4.1.16
+  resolution: "tailwindcss@npm:4.1.16"
+  checksum: 10c0/11beec3112686767292f43d602ffa26068be6b505adba7929ad17b2a3d8e262bdb2eb7c8d226325654ab8268ddd0ca7b7231df8ba59a77becbdae0df9f86268a
   languageName: node
   linkType: hard
 
